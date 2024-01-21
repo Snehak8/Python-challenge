@@ -23,6 +23,7 @@ Used the csv module for parsing the CSV file and utilized functions and data str
 1. Exported the analysis results to a text file named "financial_analysis.txt." The text file is saved within the "analysis" folder in the "PyBank" project directory.
 
 # Python-challenge - PyPoll
+#This script provides a detailed election analysis summary of Candidates, Votes, and vote percentages.
 
 **Objective:**
 
